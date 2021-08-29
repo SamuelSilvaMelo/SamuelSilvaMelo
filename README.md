@@ -11,8 +11,8 @@
 </div>
 <h2>Status</h2>
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=SamuelSilvaMelo&count_private=true&hide=stars&show_icons=true&theme=dracula" alt="Samuel Melo GitHub Stats" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilvaMelo&layout=compact&theme=dracula" alt="Samuel Melo Top Languages Card" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SamuelSilvaMelo&count_private=true&hide=stars&show_icons=true&theme=dracula" alt="Samuel Melo GitHub Stats" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilvaMelo&layout=compact&theme=dracula" alt="Samuel Melo Top Languages Card" />
 </div>
 <h2>Profile accesses</h2>
 <div align="center">
