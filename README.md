@@ -1,7 +1,7 @@
-<!--
 <img align="right" width="300px" src="https://i.imgur.com/OUbR0t3.png" />
--->
+
 <p>Hi! Be welcome! My name is Samuel Melo, I'm from Belo Horizonte, Brazil and I'll tell you a little more about myself below.</p>
+
 <div>
   <ul>
     <li>👨‍💻 I'm currently studying Full Stack Web Development at <a href="https://www.betrybe.com" target="_blank">Trybe</a></li>
@@ -12,13 +12,42 @@
     <li>📫 How to reach me: <a href="mailto:samuel.silva.melo@hotmail.com" >samuel.silva.melo@hotmail.com</a></li>
   </ul>
 </div>
+
+<h2>My Skills</h2>
+
+<div align="center">
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bash/bash-original.svg" alt="Bash-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-plain.svg" alt="Git-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original.svg" alt="GitHub-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg" alt="HTML-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg" alt="CSS-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-plain.svg" alt="JavaScript-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jest/jest-plain.svg" alt="Jest-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original.svg" alt="React.js-Logo" />
+  <img width="70px" src="https://i.imgur.com/wbRSD1i.png" alt="React-Testing-Library-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/redux/redux-original.svg" alt="Redux-Logo" />
+</div>
+
+<h2>I will learn soon</h2>
+
+<div align="center">
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" alt="Python-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/csharp/csharp-original.svg" alt="C-Sharp-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/dot-net/dot-net-original.svg" alt="Dot-Net-Logo" />
+</div>
+
 <h2>Status</h2>
+
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SamuelSilvaMelo&count_private=true&hide=stars&show_icons=true&theme=dracula" alt="Samuel Melo GitHub Stats" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilvaMelo&layout=compact&theme=dracula" alt="Samuel Melo Top Languages Card" />
 </div>
 
 <h2>Profile accesses</h2>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SamuelSilvaMelo" alt="Samuel-Melo" />
 </div>
