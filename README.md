@@ -46,6 +46,20 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilvaMelo&layout=compact&theme=dracula" alt="Samuel Melo Top Languages Card" />
 </div>
 
+<h2>Contact</h2>
+
+<div align="center">
+  <a href="https://www.instagram.com/samuelmelloo/" target="_blank">
+    <img width="120px" src="https://i.imgur.com/jJAq6d5.png" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-silva-melo/" target="_blank">
+    <img width="120px" src="https://i.imgur.com/twkI2be.png" alt="Linkedin" />
+  </a>
+  <a href="mailto:samuel.silva.melo@hotmail.com" target="_blank">
+    <img width="120px" src="https://i.imgur.com/a8RlM51.png" alt="Email" />
+  </a>
+</div>
+
 <h2>Profile accesses</h2>
 
 <div align="center">
