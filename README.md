@@ -1,4 +1,6 @@
+<!--
 <img align="right" width="300px" src="https://i.imgur.com/OUbR0t3.png" />
+-->
 <p>Hi! Be welcome! My name is Samuel Melo, I'm from Belo Horizonte, Brazil and I'll tell you a little more about myself below.</p>
 <div>
   <ul>
