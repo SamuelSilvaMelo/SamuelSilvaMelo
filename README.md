@@ -4,8 +4,8 @@
 
 <div>
   <ul>
-    <li>👨‍💻 I'm currently studying Full Stack Web Development at <a href="https://www.betrybe.com" target="_blank">Trybe</a></li>
-    <li>🌱 I'm currently learning about the back-end using MySQL, MongoDB and NodeJS</li>
+    <li>👨‍💻 I'm currently studying Software Developer at <a href="https://www.betrybe.com" target="_blank">Trybe</a></li>
+    <li>🌱 Currently I learning about the back-end using MySQL, MongoDB and NodeJS</li>
     <li>💙 I'm in love with airplanes</li>
     <li>🎮 My main hobby is playing video games and climbing 🧗‍♂️</li>
     <li>💬 Ask me about anything! It will be a pleasure to answer</li>
