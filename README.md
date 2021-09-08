@@ -9,6 +9,10 @@
     <li>💙 I'm in love with airplanes</li>
     <li>🎮 My main hobby is playing video games and climbing 🧗‍♂️</li>
     <li>💬 Ask me about anything! It will be a pleasure to answer</li>
+    <li>
+      🌐 My personal portfolio:
+      <a href="https://samuelsilvamelo.github.io/">samuelsilvamelo.github.io</a>
+    </li>
     <li>📫 How to reach me: <a href="mailto:samuel.silva.melo@hotmail.com" >samuel.silva.melo@hotmail.com</a></li>
   </ul>
 </div>
