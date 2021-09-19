@@ -14,6 +14,7 @@
       <a href="https://samuelsilvamelo.github.io/">samuelsilvamelo.github.io</a>
     </li>
     <li>📫 How to reach me: <a href="mailto:samuel.silva.melo@hotmail.com" >samuel.silva.melo@hotmail.com</a></li>
+    <li>📝 To access my Curriculum please <a href="https://gitconnected.com/samuelsilvamelo/resume" >click here</a></li>
   </ul>
 </div>
 
