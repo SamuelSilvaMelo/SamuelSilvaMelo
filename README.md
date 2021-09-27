@@ -1,12 +1,12 @@
 <img align="right" width="300px" src="https://i.imgur.com/OUbR0t3.png" />
 
-<p>Hi! Be welcome! My name is Samuel Melo, I'm from Belo Horizonte, Brazil and I'll tell you a little more about myself below.</p>
+<p>Hi! Be welcome! My name is Samuel Melo, I am from Belo Horizonte, Brazil and I will tell you a little more about myself below.</p>
 
 <div>
   <ul>
-    <li>👨‍💻 I'm currently studying Software Developer at <a href="https://www.betrybe.com" target="_blank">Trybe</a></li>
+    <li>👨‍💻 I am currently studying Software Developer at <a href="https://www.betrybe.com" target="_blank">Trybe</a> school</li>
     <li>🌱 Currently I learning about the back-end using MySQL, MongoDB and NodeJS</li>
-    <li>💙 I'm in love with airplanes</li>
+    <li>💙 I am in love with airplanes</li>
     <li>🎮 My main hobby is playing video games and climbing 🧗‍♂️</li>
     <li>💬 Ask me about anything! It will be a pleasure to answer</li>
     <li>
