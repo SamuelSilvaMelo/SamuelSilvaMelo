@@ -54,8 +54,8 @@
 <h2>Contact</h2>
 
 <div align="center">
-  <a href="https://www.instagram.com/samuelmelloo/" target="_blank">
-    <img width="120px" src="https://i.imgur.com/jJAq6d5.png" alt="Instagram" />
+  <a href="https://t.me/SamuelMelo" target="_blank">
+    <img width="120px" src="https://i.imgur.com/zC2hwxa.png" alt="Telegram" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-silva-melo/" target="_blank">
     <img width="120px" src="https://i.imgur.com/twkI2be.png" alt="Linkedin" />
