@@ -31,13 +31,13 @@
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original.svg" alt="React.js-Logo" />
   <img width="70px" src="https://i.imgur.com/wbRSD1i.png" alt="React-Testing-Library-Logo" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/redux/redux-original.svg" alt="Redux-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB-Logo" />
 </div>
 
 <h2>I will learn soon</h2>
 
 <div align="center">
-  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL-Logo" />
-  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB-Logo" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS-Logo" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" alt="Python-Logo" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/csharp/csharp-original.svg" alt="C-Sharp-Logo" />
