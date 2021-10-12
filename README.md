@@ -64,10 +64,3 @@
     <img width="120px" src="https://i.imgur.com/a8RlM51.png" alt="Email" />
   </a>
 </div>
-
-<h2>Profile accesses</h2>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamuelSilvaMelo" alt="Samuel-Melo" />
-</div>
-
