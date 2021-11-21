@@ -14,7 +14,16 @@
       <a href="https://samuelsilvamelo.github.io/">samuelsilvamelo.github.io</a>
     </li>
     <li>📫 How to reach me: <a href="mailto:samuel.silva.melo@hotmail.com" >samuel.silva.melo@hotmail.com</a></li>
-    <li>📝 To access my Curriculum please <a href="https://gitconnected.com/samuelsilvamelo/resume" >click here</a></li>
+    <li>📝 To access my Curriculum in 🇺🇸 English, please
+      <a href="https://drive.google.com/file/d/1wlNCyQ_Xbw0QW5xP5IyBNuzdw1ObZA6o/view?usp=sharing">
+        click here
+      </a>.
+      Or access the 🇧🇷 Portuguese version
+      <a href="https://drive.google.com/file/d/1DrMOeImAPJaVzxfqQzohZZ18_vNkV32R/view?usp=sharing">
+        here
+      </a>
+      .
+    </li>
   </ul>
 </div>
 
