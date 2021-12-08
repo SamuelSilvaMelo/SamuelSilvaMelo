@@ -5,7 +5,7 @@
 <div>
   <ul>
     <li>👨‍💻 I am currently studying Software Developer at <a href="https://www.betrybe.com" target="_blank">Trybe</a> school</li>
-    <li>🌱 Currently I learning about the back-end using MySQL, MongoDB and NodeJS</li>
+    <li>🌱 Currently I learning about the back-end using MySQL, MongoDB, NodeJS and Express</li>
     <li>💙 I am in love with airplanes</li>
     <li>🎮 My main hobby is playing video games and climbing 🧗‍♂️</li>
     <li>💬 Ask me about anything! It will be a pleasure to answer</li>
