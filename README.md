@@ -15,11 +15,11 @@
     </li>
     <li>📫 How to reach me: <a href="mailto:samuel.silva.melo@hotmail.com" >samuel.silva.melo@hotmail.com</a></li>
     <li>📝 To access my Curriculum in 🇺🇸 English, please
-      <a href="https://drive.google.com/file/d/1wlNCyQ_Xbw0QW5xP5IyBNuzdw1ObZA6o/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/1rD7sp-wcD9_LdWjf-2mBbCffLZXNTDFX/view?usp=sharing">
         click here
       </a>.
       Or access the 🇧🇷 Portuguese version
-      <a href="https://drive.google.com/file/d/1DrMOeImAPJaVzxfqQzohZZ18_vNkV32R/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/1HCztcOoBXIpVPnwgv1amnZNr15ND3mRG/view?usp=sharing">
         here
       </a>
       .
