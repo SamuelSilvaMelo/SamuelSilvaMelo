@@ -4,8 +4,8 @@
 
 <div>
   <ul>
-    <li>👨‍💻 I am currently studying Software Developer at <a href="https://www.betrybe.com" target="_blank">Trybe</a> school</li>
-    <li>🌱 Currently I learning about the Computer Science with Python</li>
+    <li>👨‍💻 I am a Full Stack Software Developer graduated by the <a href="https://www.betrybe.com" target="_blank">Trybe</a> school</li>
+    <li>🌱 Currently I learning about the Microsoft universe with .NET and C#</li>
     <li>💙 I am in love with airplanes</li>
     <li>🎮 My main hobby is playing video games and climbing 🧗‍♂️</li>
     <li>💬 Ask me about anything! It will be a pleasure to answer</li>
@@ -43,13 +43,12 @@
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL-Logo" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB-Logo" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS-Logo" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" alt="Python-Logo" />
 </div>
 
 <h2>I will learn soon</h2>
 
 <div align="center">
-  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" alt="Typescript-Logo" />
-  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" alt="Python-Logo" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/csharp/csharp-original.svg" alt="C-Sharp-Logo" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/dot-net/dot-net-original.svg" alt="Dot-Net-Logo" />
 </div>
