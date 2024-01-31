@@ -5,7 +5,7 @@
 <div>
   <ul>
     <li>👨‍💻 I am a Full Stack Software Developer graduated by the <a href="https://www.betrybe.com" target="_blank">Trybe</a> school</li>
-    <li>🌱 Currently I learning about the Microsoft universe with .NET and C#</li>
+    <li>🖥️ Currently I'm working with the Microsoft universe using .NET and C#</li>
     <li>💙 I am in love with airplanes</li>
     <li>🎮 My main hobby is playing video games and climbing 🧗‍♂️</li>
     <li>💬 Ask me about anything! It will be a pleasure to answer</li>
@@ -31,8 +31,15 @@
 
 <div align="center">
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bash/bash-original.svg" alt="Bash" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/csharp/csharp-original.svg" alt="C-Sharp" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/dot-net/dot-net-original.svg" alt="Dot-Net" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuget/nuget-original.svg" alt="Nuget" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" />
+  <img width="70px" src="https://i.imgur.com/lNcD5Ul.png" alt="RabbitMQ" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-plain.svg" alt="Git" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original.svg" alt="GitHub" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Bitbucket" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg" alt="HTML" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg" alt="CSS" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-plain.svg" alt="JavaScript" />
@@ -41,19 +48,17 @@
   <img width="70px" src="https://i.imgur.com/wbRSD1i.png" alt="React-Testing-Library" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/redux/redux-original.svg" alt="Redux" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" />
   <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" alt="Python" />
-  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/csharp/csharp-original.svg" alt="C-Sharp" />
-  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/dot-net/dot-net-original.svg" alt="Dot-Net" />
-  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuget/nuget-original.svg" alt="Nuget" />
+  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" alt="Angular" />
 </div>
 
-<h2>I will learn soon</h2>
+<!--
 
-<div align="center">
-  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" alt="Angular" />
-  <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg" alt="Docker" />
+<h2>I will learn soon</h2>
+  <div align="center">
 </div>
 
 <h2>Status</h2>
@@ -62,6 +67,8 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SamuelSilvaMelo&count_private=true&hide=stars&show_icons=true&theme=dracula" alt="Samuel Melo GitHub Stats" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilvaMelo&layout=compact&theme=dracula" alt="Samuel Melo Top Languages Card" />
 </div>
+
+-->
 
 <h2>Contact</h2>
 
